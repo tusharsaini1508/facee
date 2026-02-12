@@ -28,7 +28,7 @@ const EMAIL_CONFIG = {
     
     smtp: {
         Host: "smtp.gmail.com",
-        Username: "tusharsainivpn0@gmail.com",           // ← REPLACE THIS
+        Username: "tusharsainivpn1@gmail.com",           // ← REPLACE THIS
         Password: "vfxm yctc wqea zknz",            // ← REPLACE with 16-char App Password
         To: "abhishakechatterjee@gmail.com>",                 // ← Who receives the reports
         From: "tusharsainivpn0@gmail.com"                // ← Your Gmail address
